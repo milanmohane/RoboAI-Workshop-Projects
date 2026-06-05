@@ -14,4 +14,4 @@ This repository contains all the minor and major projects completed during the R
 * **[Major Project: Quadruped Robot](https://github.com/milanmohane/RoboAI-Workshop-Projects/blob/main/Quadruped_10Day_MiniProject__Milan_Mohane_%20-20260605T171311Z-3-001.zip):** Designed a 2-DOF per leg quadruped robot, calculating gait cycles and validating motion through simulation.
 
 ## Certification
-* Successfully completed the 45-day intensive training. [View my Robo-AI Certificate](./5482923-ROBOAICARLOMilanMohane)
+* Successfully completed the 45-day intensive training. [View my Robo-AI Certificate](https://github.com/milanmohane/RoboAI-Workshop-Projects/blob/main/Milan%20Mohane_RoboAI%20COA.pdf)
