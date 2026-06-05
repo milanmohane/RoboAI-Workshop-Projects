@@ -6,7 +6,7 @@
 This repository contains all the minor and major projects completed during the Robo-AI training program. The projects cover a wide range of robotics and automation domains, including Robot Operating System (ROS 2), Kinematics, Internet of Things (IoT), Computer-Aided Design (CAD), Finite Element Analysis (FEA), and Generative AI.
 
 ## Projects Included
-* **[ROS 2 4-DOF Industrial Arm URDF](./ROS2_URDF_4DOF_Arm_):** Designed the kinematic structure and URDF model, visualized via RViz and TF tree.
+* **[ROS 2 4-DOF Industrial Arm URDF](https://github.com/milanmohane/RoboAI-Workshop-Projects/blob/main/ROS2_URDF_4DOF_Arm__Milan_Mohane_%20-20260605T165800Z-3-001.zip):** Designed the kinematic structure and URDF model, visualized via RViz and TF tree.
 * **[UR5 Inverse Kinematics Verification Tool](./UR5_IK_Verification_):** Modeled the UR5 arm using DH parameters and verified IK solutions using MATLAB/Python.
 * **[IoT Weather Station Using ESP32](./IoT_Weather_Station_):** Interfaced a DHT22 sensor with an ESP32 to stream live data to a ThingSpeak dashboard with email alerts.
 * **[Industrial 2-Finger Gripper](./Industrial_Gripper_Design_):** Parametric CAD modeling and static stress simulation capable of holding a 5-10 kg payload.
